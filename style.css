@@ -1,0 +1,27 @@
+header{
+    box-shadow:0px 2px 5px 0 rgba(0,0,0,0.16),0px 2px 5px 0 rgba(0,0,0,0.12);
+    position:sticky;
+    top: 0;
+    z-index: 1000;
+}
+#hero-section{
+    background-image: url(assects/WhatsApp\ Image\ 2024-03-09\ at\ 21.53.33_a87a5990.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    margin-left: center;
+    margin-right: center;
+}
+main{
+   flex: 1 0 auto ;
+}
+main #br-word{
+               background-color: rgba(0,0,0,0.6);
+}
+#about-section button{
+    width: 100%;
+}
+#about-section button:hover{
+    background-color: whitesmoke;
+    color: black;
+}
